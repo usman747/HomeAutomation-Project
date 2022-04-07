@@ -1,5 +1,5 @@
 // The Code is modified and written by Alok Shaw, the creator of the Youtube channel : www.youtube.com/roboshala and runs an educational blog : www.roboshala.com
-// Coded modified by Usman for prototype of smarthomeautomationproject
+// Code modified by Usman for prototype of smarthomeautomationproject
 
 #include <ESP8266WiFi.h>
 #include<FirebaseArduino.h>
